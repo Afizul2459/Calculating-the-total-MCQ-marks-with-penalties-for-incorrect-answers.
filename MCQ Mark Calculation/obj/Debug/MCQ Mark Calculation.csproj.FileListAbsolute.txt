@@ -1,0 +1,7 @@
+D:\Visual Studio 2022\MCQ Mark Calculation\bin\Debug\MCQ Mark Calculation.exe.config
+D:\Visual Studio 2022\MCQ Mark Calculation\bin\Debug\MCQ Mark Calculation.exe
+D:\Visual Studio 2022\MCQ Mark Calculation\bin\Debug\MCQ Mark Calculation.pdb
+D:\Visual Studio 2022\MCQ Mark Calculation\obj\Debug\MCQ Mark Calculation.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\MCQ Mark Calculation\obj\Debug\MCQ Mark Calculation.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\MCQ Mark Calculation\obj\Debug\MCQ Mark Calculation.exe
+D:\Visual Studio 2022\MCQ Mark Calculation\obj\Debug\MCQ Mark Calculation.pdb
